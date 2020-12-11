@@ -5,10 +5,12 @@ public class execution {
 		// TODO Auto-generated method stub
 
 		swaglab s = new swaglab();
+		//calling the methods
 		s.Login();
 		s.addproduct();
 		s.userdetails();
 		s.confirmorder();
+		
 	}
 
 }
